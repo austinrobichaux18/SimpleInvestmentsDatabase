@@ -7,7 +7,7 @@ It creates the database, stored procedures, and views to store the queries.
 # How to run this application
 Open SSMS and create a new database named "InvestmentsDatabase"  
 Open a new Query window within the new database  
-Open the contents of the .sql file in this repo, or copy/paste the contents into the query window   
+Open the contents of the .sql file in this database, or copy/paste the contents into the query window   
 Run the Query  
 Go to Programability > Stored Procedures > and Right click Execute the "Intialize and Reset Database" Stored Procedure.  
 	Run this procedure.  
